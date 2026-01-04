@@ -23,5 +23,7 @@ The data for this project was sourced from an Excel-based warehouse inventory da
 🔄 Dynamic filtering and slicers for better data exploration.
 🧠 Business-focused insights to support inventory and warehouse decisions.
 
+https://github.com/pritimaurya555/PowerBI_project_/blob/main/warehousedata.jpg
+
 
 

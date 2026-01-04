@@ -12,12 +12,19 @@ This project demonstrates practical skills in data cleaning, data modeling, DAX 
 The data for this project was sourced from an Excel-based warehouse inventory dataset, created and structured for analytical and visualization purposes.
 
 📊 Interactive Power BI Dashboard for warehouse inventory analysis.
+
 📦 Category-wise Quantity Analysis using Treemap visualization.
+
 ⏳ Expiry Date Analysis for Food and Health & Beauty products using Donut Charts.
+
 🧾 KPI Cards displaying Total Categories, Total Items, and Total Quantity.
+
 🏷️ Inventory Status Tracking including Active, Hold, Damaged, and Reserved products.
+
 📅 Year-wise Analysis to monitor inventory trends over time.
+
 🔄 Dynamic filtering and slicers for better data exploration.
+
 🧠 Business-focused insights to support inventory and warehouse decisions.
 
 https://github.com/pritimaurya555/PowerBI_project_/blob/main/warehousedata.jpg
